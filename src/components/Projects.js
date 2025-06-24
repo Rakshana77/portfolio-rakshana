@@ -18,7 +18,7 @@ export default function Projects() {
                 image: websiteImg2,
                 description: 'Movie Ticket Booking website. Built with MERN Stack.',
                 link: 'https://github.com/Rakshana77/frontend-movies',
-                backend: 'https://github.com/Rakshana77/backend-movies',
+                backend: 'https://github.com/Rakshana77/movie-backend',
                 deploy: "https://reliable-malabi-02bcc8.netlify.app/"
             },
             {
@@ -32,14 +32,14 @@ export default function Projects() {
                 image: websiteImg4,
                 description: 'YouTube clone. Built with MERN Stack.',
                 link: 'https://github.com/Rakshana77/youtube-clone',
-                backend: 'https://github.com/Rakshana77/youtube-clone-be',
+                backend: 'https://github.com/Rakshana77/youtube-clone',
                 deploy: "https://reliable-belekoy-3f1c96.netlify.app/"
             },
             {
                 image: websiteImg5,
                 description: 'food delivery app.built with MERN stack',
                 link: 'https://github.com/Rakshana77/food-del-fe',
-                backend: 'https://food-del-be-1.onrender.com/',
+                backend: 'https://github.com/Rakshana77/food-del-be',
                 deploy: "https://fancy-palmier-5a04cc.netlify.app/"
             }
 
