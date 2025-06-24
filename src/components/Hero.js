@@ -1,6 +1,6 @@
 import HeroImg from '../assets/hero.png';
 import { AiOutlineGithub, AiOutlineLinkedin } from "react-icons/ai";
-const resumeLink = "https://drive.google.com/file/d/195FQzVafGVLvzYj7VuTGMge4MLxgNuak/view?usp=sharing";
+const resumeLink = "https://drive.google.com/file/d/1cD34RVhgbXyB_hLLqJrvs_QpeQZ1HpQS/view?usp=sharing";
 export default function Hero() {
     const config = {
         subtitle: 'Full-stack developer',
